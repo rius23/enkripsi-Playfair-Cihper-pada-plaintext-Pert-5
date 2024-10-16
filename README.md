@@ -1,9 +1,19 @@
 # enkripsi-Playfair-Cihper-pada-plaintext-Pert-5
 
+Nama    : Serius Ndruru
+
+NIM     : 312210508
+
+Kelas   :TI.22.A.5
+
 #prompt: Lakukan enkripsi Playfair Cihper pada plaintext:
+
 #GOOD BROOM SWEEP CLEAN
+
 #REDWOOD NATIONAL STATE PARK
+
 #JUNK FOOD AND HEALTH PROBLEMS
+
 #Dengan kunci “TEKNIK INFORMATIKA” dekripnya
 
 def prepare_key(key):
